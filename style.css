@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    font-size: 2rem;
+    background-color: white;
+}
+
+.container {
+    background-color: aqua;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: darkgreen;
+    width: 20rem;
+    height: 20rem;
+}
+
+
